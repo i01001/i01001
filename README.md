@@ -1,7 +1,7 @@
 Hi 👋 My name is Ikhlas Mohammad
 ================================
 
-Smart Contract Blockchain Developer @ Crypton Factory - Crypton Studio || Electrical Engineer || Contributor to GitDAO
+Smart Contract Blockchain Developer @ Crypton Factory - Crypton Studio || Smart Contract Security || Electrical Engineer || Contributor to GitDAO
 ----------------------------------------------------------------------------------------------------------------------
 
 I am currently working as a Smart Contract Blockchain Developer (Solidity) in Crypton Factory. I am also a Developer at 42 Abu Dhabi Coding School. 
