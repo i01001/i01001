@@ -1,4 +1,4 @@
-Hi 👋 My name is Ikhlas Mohammad
+Hi 👋 My name is Ikhlas
 ================================
 
 Smart Contract Blockchain Developer @ Crypton Factory - Crypton Studio || Smart Contract Security || Electrical Engineer || Contributor to GitDAO
